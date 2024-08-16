@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop Asus",
+            "price": 4500,
+            "ram": 12,
+            "proccesor": "Intel"
+        },
+        {
+            "id": 2,
+            "name": "Mac Mini",
+            "price": 3000,
+            "ram": 8,
+            "proccesor": "Rabbit"
+        },
+
+        {
+            "id": 3,
+            "name": "Redmi",
+            "price": 1200,
+            "ram": 6,
+            "proccesor": "Snapdragon"
+        }
+    ]
+}
